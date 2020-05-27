@@ -1,6 +1,6 @@
 {
   "name": "@bedrocker/mc-chunk",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "private": false,
   "description": "",
   "main": "lib/index.js",
